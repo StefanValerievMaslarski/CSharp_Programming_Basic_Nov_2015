@@ -1,0 +1,6 @@
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem15-Hexadecimal to Decimal Number\bin\Debug\Problem15-Hexadecimal to Decimal Number.exe.config
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem15-Hexadecimal to Decimal Number\bin\Debug\Problem15-Hexadecimal to Decimal Number.exe
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem15-Hexadecimal to Decimal Number\bin\Debug\Problem15-Hexadecimal to Decimal Number.pdb
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem15-Hexadecimal to Decimal Number\obj\Debug\Problem15-Hexadecimal to Decimal Number.exe
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem15-Hexadecimal to Decimal Number\obj\Debug\Problem15-Hexadecimal to Decimal Number.pdb
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem15-Hexadecimal to Decimal Number\obj\Debug\Problem15-Hexadecimal to Decimal Number.csprojResolveAssemblyReference.cache

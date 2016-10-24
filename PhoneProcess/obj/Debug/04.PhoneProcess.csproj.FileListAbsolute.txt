@@ -1,0 +1,2 @@
+c:\users\vaio\documents\visual studio 2015\Projects\ProgrammingBasicsLab16August 2015\04.PhoneProcess\bin\Debug\04.PhoneProcess.exe.config
+C:\Users\Stefan_Petq_Valeriq\Desktop\ProgrammingBasicsLab16August 2015\04.PhoneProcess\bin\Debug\04.PhoneProcess.exe.config

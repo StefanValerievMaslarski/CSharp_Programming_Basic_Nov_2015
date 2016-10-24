@@ -1,0 +1,6 @@
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\Grand Examo\Grand Examo\bin\Debug\Grand Examo.exe.config
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\Grand Examo\Grand Examo\bin\Debug\Grand Examo.exe
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\Grand Examo\Grand Examo\bin\Debug\Grand Examo.pdb
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\Grand Examo\Grand Examo\obj\Debug\Grand Examo.csprojResolveAssemblyReference.cache
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\Grand Examo\Grand Examo\obj\Debug\Grand Examo.exe
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\Grand Examo\Grand Examo\obj\Debug\Grand Examo.pdb

@@ -1,0 +1,6 @@
+c:\users\vaio\documents\visual studio 2015\Projects\ProgrammingBasicsLab16August 2015\02.DrunkAni\bin\Debug\02.DrunkAni.exe.config
+C:\Users\Stefan_Petq_Valeriq\Desktop\ProgrammingBasicsLab16August 2015\02.DrunkAni\bin\Debug\02.DrunkAni.exe.config
+C:\Users\Stefan_Petq_Valeriq\Desktop\ProgrammingBasicsLab16August 2015\02.DrunkAni\bin\Debug\02.DrunkAni.exe
+C:\Users\Stefan_Petq_Valeriq\Desktop\ProgrammingBasicsLab16August 2015\02.DrunkAni\bin\Debug\02.DrunkAni.pdb
+C:\Users\Stefan_Petq_Valeriq\Desktop\ProgrammingBasicsLab16August 2015\02.DrunkAni\obj\Debug\02.DrunkAni.exe
+C:\Users\Stefan_Petq_Valeriq\Desktop\ProgrammingBasicsLab16August 2015\02.DrunkAni\obj\Debug\02.DrunkAni.pdb

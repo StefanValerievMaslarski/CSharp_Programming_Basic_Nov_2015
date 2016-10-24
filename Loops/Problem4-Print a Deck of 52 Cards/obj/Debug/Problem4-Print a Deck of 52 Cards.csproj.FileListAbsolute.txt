@@ -1,0 +1,12 @@
+c:\users\свилен\documents\visual studio 2013\Projects\Homework-Loops\Problem4-Print a Deck of 52 Cards\bin\Debug\Problem4-Print a Deck of 52 Cards.exe.config
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem4-Print a Deck of 52 Cards\bin\Debug\Problem4-Print a Deck of 52 Cards.exe
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem4-Print a Deck of 52 Cards\bin\Debug\Problem4-Print a Deck of 52 Cards.pdb
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem4-Print a Deck of 52 Cards\obj\Debug\Problem4-Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem4-Print a Deck of 52 Cards\obj\Debug\Problem4-Print a Deck of 52 Cards.exe
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem4-Print a Deck of 52 Cards\obj\Debug\Problem4-Print a Deck of 52 Cards.pdb
+C:\Users\Stefan_Petq_Valeriq\Desktop\Homework-Loops\Problem4-Print a Deck of 52 Cards\bin\Debug\Problem4-Print a Deck of 52 Cards.exe.config
+C:\Users\Stefan_Petq_Valeriq\Desktop\Homework-Loops\Problem4-Print a Deck of 52 Cards\obj\Debug\Problem4-Print a Deck of 52 Cards.exe
+C:\Users\Stefan_Petq_Valeriq\Desktop\Homework-Loops\Problem4-Print a Deck of 52 Cards\obj\Debug\Problem4-Print a Deck of 52 Cards.pdb
+C:\Users\Stefan_Petq_Valeriq\Desktop\Homework-Loops\Problem4-Print a Deck of 52 Cards\bin\Debug\Problem4-Print a Deck of 52 Cards.exe
+C:\Users\Stefan_Petq_Valeriq\Desktop\Homework-Loops\Problem4-Print a Deck of 52 Cards\bin\Debug\Problem4-Print a Deck of 52 Cards.pdb
+C:\Users\Stefan_Petq_Valeriq\Desktop\Homework-Loops\Problem4-Print a Deck of 52 Cards\obj\Debug\Problem4-Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache

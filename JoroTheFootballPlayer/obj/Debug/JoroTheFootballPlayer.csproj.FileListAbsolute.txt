@@ -1,0 +1,6 @@
+c:\users\vindzhev\documents\visual studio 2015\Projects\ConsoleInputOutput\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe.config
+c:\users\vindzhev\documents\visual studio 2015\Projects\ConsoleInputOutput\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\ConsoleInputOutput\JoroTheFootballPlayer\bin\Debug\JoroTheFootballPlayer.pdb
+c:\users\vindzhev\documents\visual studio 2015\Projects\ConsoleInputOutput\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+c:\users\vindzhev\documents\visual studio 2015\Projects\ConsoleInputOutput\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.exe
+c:\users\vindzhev\documents\visual studio 2015\Projects\ConsoleInputOutput\JoroTheFootballPlayer\obj\Debug\JoroTheFootballPlayer.pdb

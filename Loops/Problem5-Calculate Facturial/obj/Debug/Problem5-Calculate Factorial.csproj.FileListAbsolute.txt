@@ -1,0 +1,6 @@
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem5-Calculate Facturial\bin\Debug\Problem5-Calculate Facturial.exe.config
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem5-Calculate Facturial\bin\Debug\Problem5-Calculate Facturial.exe
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem5-Calculate Facturial\bin\Debug\Problem5-Calculate Facturial.pdb
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem5-Calculate Facturial\obj\Debug\Problem5-Calculate Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem5-Calculate Facturial\obj\Debug\Problem5-Calculate Facturial.exe
+C:\Users\Свилен\Documents\Visual Studio 2013\Projects\Homework-Loops\Problem5-Calculate Facturial\obj\Debug\Problem5-Calculate Facturial.pdb

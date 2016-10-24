@@ -1,0 +1,9 @@
+c:\users\свилен\documents\visual studio 2013\Projects\Homework-Loops\Problem3-Min, Max, Sum and Average of N Numbers\bin\Debug\Problem3-Min, Max, Sum and Average of N Numbers.exe.config
+c:\users\свилен\documents\visual studio 2013\Projects\Homework-Loops\Problem3-Min, Max, Sum and Average of N Numbers\bin\Debug\Problem3-Min, Max, Sum and Average of N Numbers.exe
+c:\users\свилен\documents\visual studio 2013\Projects\Homework-Loops\Problem3-Min, Max, Sum and Average of N Numbers\bin\Debug\Problem3-Min, Max, Sum and Average of N Numbers.pdb
+c:\users\свилен\documents\visual studio 2013\Projects\Homework-Loops\Problem3-Min, Max, Sum and Average of N Numbers\obj\Debug\Problem3-Min, Max, Sum and Average of N Numbers.csprojResolveAssemblyReference.cache
+c:\users\свилен\documents\visual studio 2013\Projects\Homework-Loops\Problem3-Min, Max, Sum and Average of N Numbers\obj\Debug\Problem3-Min, Max, Sum and Average of N Numbers.exe
+c:\users\свилен\documents\visual studio 2013\Projects\Homework-Loops\Problem3-Min, Max, Sum and Average of N Numbers\obj\Debug\Problem3-Min, Max, Sum and Average of N Numbers.pdb
+C:\Users\Stefan_Petq_Valeriq\Desktop\Homework-Loops\Problem3-Min, Max, Sum and Average of N Numbers\bin\Debug\Problem3-Min, Max, Sum and Average of N Numbers.exe.config
+C:\Users\Stefan_Petq_Valeriq\Desktop\Homework-Loops\Problem3-Min, Max, Sum and Average of N Numbers\obj\Debug\Problem3-Min, Max, Sum and Average of N Numbers.exe
+C:\Users\Stefan_Petq_Valeriq\Desktop\Homework-Loops\Problem3-Min, Max, Sum and Average of N Numbers\obj\Debug\Problem3-Min, Max, Sum and Average of N Numbers.pdb

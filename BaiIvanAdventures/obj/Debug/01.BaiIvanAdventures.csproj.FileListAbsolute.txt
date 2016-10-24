@@ -1,0 +1,2 @@
+c:\users\vaio\documents\visual studio 2015\Projects\ProgrammingBasicsLab16August 2015\01.BaiIvanAdventures\bin\Debug\01.BaiIvanAdventures.exe.config
+C:\Users\Stefan_Petq_Valeriq\Desktop\ProgrammingBasicsLab16August 2015\01.BaiIvanAdventures\bin\Debug\01.BaiIvanAdventures.exe.config

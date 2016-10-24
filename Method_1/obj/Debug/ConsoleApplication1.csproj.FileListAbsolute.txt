@@ -1,0 +1,6 @@
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\metod examples\methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\metod examples\methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\metod examples\methods\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\metod examples\methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\metod examples\methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Stefan_Petq_Valeriq\Desktop\SOFTUNI\metod examples\methods\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
